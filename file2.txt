@@ -5,3 +5,5 @@ Add New Details
 Add New Line - bugfix/forget
 
 Edit on main
+
+Edit one feature one
